@@ -1,5 +1,7 @@
 # Kentico Cloud model generator utility for Java
 
+> ⚠ This repotiroy is deprecated. Use [Kentico Kontent model generator for Java](https://github.com/Kentico/kontent-java-packages/tree/master/kontent-delivery-generators#readme) instead.
+
 [![Build Status](https://travis-ci.com/Kentico/cloud-generators-java.svg?branch=master)](https://travis-ci.com/Kentico/cloud-generators-java)
 [![Gradle Plugin](https://img.shields.io/static/v1?label=gradle&message=1.1&color=%3CCOLOR%3E?style=flat&logo=gradle&labelColor=02303A)](https://plugins.gradle.org/plugin/com.kenticocloud.generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
